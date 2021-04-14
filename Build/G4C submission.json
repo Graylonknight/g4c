@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project (2)",
+"dataUrl": "G4C submission.data.unityweb",
+"wasmCodeUrl": "G4C submission.wasm.code.unityweb",
+"wasmFrameworkUrl": "G4C submission.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
